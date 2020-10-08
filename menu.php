@@ -77,13 +77,13 @@
 
 				</li>
 
-				<li class="fa-facebook" >
+				<!--<li class="fa-facebook" >
 					<a  href="https://www.facebook.com/iprcs.org/" target="_blank"><span class="label">Facebook</span></a>
 
-				</li>
+				</li>-->
 
 				<li class="fa-envelope-o">
-					<a href="mailto:Rozenn.Dahyot@tcd.ie">IPRCS president</a>
+					<a href="mailto:sa.coleman@ulster.ac.uk">IPRCS president</a>
 				</li>
 
 				<li class="fa-home">
