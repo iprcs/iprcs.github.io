@@ -77,10 +77,10 @@
 
 				</li>
 
-				<!--<li class="fa-facebook" >
-					<a  href="https://www.facebook.com/iprcs.org/" target="_blank"><span class="label">Facebook</span></a>
+				<li class="fa-envelope-o" >
+					<a  href="https://groups.google.com/g/iprcs" target="_blank"><span class="label">Mailing list</span></a>
 
-				</li>-->
+				</li>
 
 				<li class="fa-envelope-o">
 					<a href="mailto:sa.coleman@ulster.ac.uk">IPRCS president</a>
